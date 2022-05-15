@@ -59,4 +59,4 @@ src="https://git-scm.com/images/logos/downloads/Git-Icon-Black.png"/>
 
 [instagram]: https://www.instagram.com/v_lazarevic6/
 [linkedin]: https://www.linkedin.com/in/vladimir-lazarevic/
-[Vladimir Lazarevic](mailto:vladimir.12.lazarevic@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+[email](mailto:vladimir.12.lazarevic@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
