@@ -57,5 +57,5 @@ src="https://git-scm.com/images/logos/downloads/Git-Icon-Black.png"/>
 <br /> <br />
 
 [instagram]: https://www.instagram.com/v_lazarevic6/
-[linkedin]: https://www.linkedin.com/in/vladimir-lazarevic/
-[<img align="left" alt="vladimirlazarevic | Email" height="30vh" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" />](mailto:lunde@adobe.com?subject=[GitHub]%20Source%20Han%20Sans)
+<span>[linkedin]: https://www.linkedin.com/in/vladimir-lazarevic/ </span>
+[<img align="left" alt="vladimirlazarevic | Email" height="30vh" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" />](mailto:vladimir.12.lazarevic@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
