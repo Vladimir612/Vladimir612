@@ -20,13 +20,13 @@ and help my colleagues when they have problems with them.
   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
   /><img align="left" alt="HTML5" height="30vh"
   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
-  /> <img align="left" alt="CSS3" height="30vh"
+  /><img align="left" alt="CSS3" height="30vh"
   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
-  />
-<img align="left" alt="Sass" height="30vh" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+  /><img align="left" alt="Sass" height="30vh" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" height="30vh"
   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
   />
+  <br />
   
 <img align="left" alt="Java" height="30vh"
   src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"
