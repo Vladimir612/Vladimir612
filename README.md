@@ -54,9 +54,8 @@ src="https://git-scm.com/images/logos/downloads/Git-Icon-Black.png"/>
 
 [<img align="left" alt="vladimirlazarevic | LinkedIn" height="30vh" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" />][linkedin]
 [<img align="left" alt="vladimirlazarevic | Instagram" height="30vh" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" />][instagram]
-[<img align="left" alt="vladimirlazarevic | Email" height="30vh" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" />][email]
 <br /> <br />
 
 [instagram]: https://www.instagram.com/v_lazarevic6/
 [linkedin]: https://www.linkedin.com/in/vladimir-lazarevic/
-[email]: (mailto:vladimir.12.lazarevic@gmail.com)
+[<img align="left" alt="vladimirlazarevic | Email" height="30vh" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" />](mailto:lunde@adobe.com?subject=[GitHub]%20Source%20Han%20Sans)
