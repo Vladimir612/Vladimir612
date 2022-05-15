@@ -25,12 +25,6 @@ and help my colleagues when they have problems with them.
   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
   />
   <br /><br />
-  
-<img align="left" alt="Java" height="30vh"
-  src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"
-  /><img align="left" alt="C" height="30vh"
-  src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png"
-  /><br /><br />
 
 <img align="left" alt="React" height="30vh"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
@@ -41,6 +35,12 @@ src="https://buttercms.com/static/images/tech_banners/ExpressJS.png"
 /><img align="left" alt="MongoDB" height="30vh"
 src="https://pbs.twimg.com/profile_images/1452637606559326217/GFz_P-5e_400x400.png"
 /><br /><br />
+
+<img align="left" alt="Java" height="30vh"
+  src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"
+  /><img align="left" alt="C" height="30vh"
+  src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png"
+  /><br /><br />
 
 <img align="left" alt="Visual Studio Code" height="30vh"
   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
