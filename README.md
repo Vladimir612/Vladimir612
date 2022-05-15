@@ -37,7 +37,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 /><img align="left" alt="Node.js" height="30vh"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"
 /><img align="left" alt="Express" height="30vh"
-src="https://s3-us-west-2.amazonaws.com/assets.blog.serverless.com/express_js.png"
+src="https://buttercms.com/static/images/tech_banners/ExpressJS.png"
 /><img align="left" alt="MongoDB" height="30vh"
 src="https://pbs.twimg.com/profile_images/1452637606559326217/GFz_P-5e_400x400.png"
 /><br /><br />
