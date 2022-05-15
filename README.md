@@ -31,7 +31,7 @@ and help my colleagues when they have problems with them.
 <img align="left" alt="Java" height="30vh"
   src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"
   /> <img align="left" alt="C" height="30vh"
-  src="https://www.kindpng.com/picc/m/403-4039227_c-language-logo-png-transparent-png.png"
+  src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png"
   />
 
 <img align="left" alt="React" height="30vh"
