@@ -28,15 +28,11 @@ and help my colleagues when they have problems with them.
   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
   />
   
-<br />
-  
 <img align="left" alt="Java" height="30vh"
   src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"
   /> <img align="left" alt="C" height="30vh"
   src="https://www.kindpng.com/picc/m/403-4039227_c-language-logo-png-transparent-png.png"
   />
-  
-<br />
 
 <img align="left" alt="React" height="30vh"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
@@ -47,8 +43,6 @@ src="https://s3-us-west-2.amazonaws.com/assets.blog.serverless.com/express_js.pn
 /> <img align="left" alt="MongoDB" height="30vh"
 src="https://pbs.twimg.com/profile_images/1452637606559326217/GFz_P-5e_400x400.png"
 />
-
-<br />
 
 <img align="left" alt="GitHub" height="30vh"
 src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo.png"
