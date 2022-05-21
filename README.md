@@ -42,14 +42,6 @@ src="https://pbs.twimg.com/profile_images/1452637606559326217/GFz_P-5e_400x400.p
   src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png"
   /><br /><br />
 
-<img align="left" alt="Visual Studio Code" height="30vh"
-  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
-  /><img align="left" alt="GitHub" height="30vh"
-src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo.png"
-/> <img align="left" alt="Git" height="30vh"
-src="https://git-scm.com/images/logos/downloads/Git-Icon-Black.png"/>
-<br /> <br />
-
 ### Connect with me:
 
 [<img align="left" alt="vladimirlazarevic | LinkedIn" height="30vh" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" />][linkedin]
