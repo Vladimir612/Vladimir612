@@ -1,18 +1,15 @@
 ### Hi there, I'm Vladimir!
 
-<p>I am student at the Faculty of Organizational Sciences,
-majoring in Informational systems and tecnologies. I am passionate 
-fullstack MERN web developer. In free time I like to solve algorithmic problems 
-and help my colleagues when they have problems with them.
+<p>I am currently a fourth-year student at the Faculty of Organizational Sciences in Belgrade, majoring in Information Technology. My current role is CEO and lead developer at HireClass, an innovative learning platform. What I find most fascinating about the IT field is that the learning never stops and it provides endless opportunities for self improvement. Outside of IT, I have a deep passion for playing chess and piano.
 </p>
 
 ### Interests:
 
 - Web development
 - Algorithms and data structures
-- Mobile development
+- Entrepreneurship
+- Chess
 - Piano
-- Basketball
 
 ### Languages and Tools:
 
@@ -28,6 +25,12 @@ and help my colleagues when they have problems with them.
 
 <img align="left" alt="React" height="30vh"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
+/>
+<img align="left" alt="NextJS" height="30vh"
+src="https://static-00.iconduck.com/assets.00/next-js-icon-2048x2048-5dqjgeku.png"
+/>
+<img align="left" alt="DotNet" height="30vh"
+src="https://static-00.iconduck.com/assets.00/dotnet-icon-256x256-ozvjws7o.png"
 /><img align="left" alt="Node.js" height="30vh"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"
 /><img align="left" alt="Express" height="30vh"
